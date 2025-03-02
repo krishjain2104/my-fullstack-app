@@ -54,7 +54,7 @@ Backend Setup:
 
 Frontend Setup:
 1. Navigate to the frontend folder:
-   cd ../frontend
+   cd ../my-frontend
 2. Install Dependencies:
    yarn install (or npm install)
 3. Update API Endpoints (if needed):
