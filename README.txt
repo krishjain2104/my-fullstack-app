@@ -36,8 +36,8 @@ Installation and Setup:
 
 Backend Setup:
 1. Clone the repository:
-   git clone https://github.com/krishjain2104/OCS-Assignment.git
-   cd OCS-Assignment/backend
+   git clone https://github.com/krishjain2104/my-fullstack-app.git
+   cd my-fullstack-app/backend
 2. Install Dependencies:
    npm install
 3. Configure Environment Variables:
